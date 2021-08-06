@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on https://github.com/timgates42/meticulous
+
 [![timgates42's github stats](https://github-readme-stats.vercel.app/api?username=timgates42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=timgates42_github" />
