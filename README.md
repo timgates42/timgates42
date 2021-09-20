@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on https://github.com/timgates42/meticulous
 
-[![timgates42's github stats](https://github-readme-stats.vercel.app/api?username=timgates42**&theme=dark**)](https://github.com/anuraghazra/github-readme-stats)
+[![timgates42's github stats](https://github-readme-stats.vercel.app/api?username=timgates42&show_icons=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 (Snapshot of dynamic stats image incase it fails to load)
 
