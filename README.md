@@ -6,7 +6,7 @@
 
 (Snapshot of dynamic stats image incase it fails to load)
 
-[![github_stats](https://user-images.githubusercontent.com/47873678/128615812-523e5265-b5a4-4d5c-b97b-1a9aae691cac.png)](https://github.com/anuraghazra/github-readme-stats)
+![snapshot timgates42 github_stats](https://user-images.githubusercontent.com/47873678/226079340-5b1dc560-54e1-4b3a-831a-5d55f3f671c1.png)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=timgates42_github" />
 
